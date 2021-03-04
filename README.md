@@ -14,7 +14,22 @@ Welcome to my repo! I'm a valencian **web developer** based in Madrid. Passionat
 - 💬 Ask me about Code, Filmmaking, Videogames, Paella...
 
 
-### My Github
+## Skills
+<p align='center'>
+<img height="50" src="./public/images/html.webp">&nbsp;&nbsp;
+<img height="50" src="./public/images/hbs.png">&nbsp;&nbsp;
+<img height="50" src="./public/images/css.png">&nbsp;&nbsp;
+<img height="50" src="./public/images/js.png">&nbsp;&nbsp;
+<img height="50" src="./public/images/react.png">&nbsp;&nbsp;
+<img height="50" src="./public/images/node.webp">&nbsp;&nbsp;
+<img height="50" src="./public/images/express.png">&nbsp;&nbsp;
+<img height="50" src="./public/images/mongoDB.png">&nbsp;&nbsp;
+<img height="50" src="./public/images/postman.png">&nbsp;&nbsp;
+<img height="50" src="./public/images/visualcode.png">&nbsp;&nbsp;
+<img height="50" src="./public/images/github.png">&nbsp;&nbsp;
+
+</p>
+## My Github
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorboare)](https://github.com/anuraghazra/github-readme-stats)
 

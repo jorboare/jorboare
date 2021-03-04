@@ -3,6 +3,7 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/jordi-boronat-arevalo/" target="_blank"><img height="50" src="./public/images/174857.png"></a>&nbsp;&nbsp;
 <a href="https://github.com/jorboare" target="_blank"><img height="50" src="./public/images/github.png"></a>&nbsp;&nbsp;
+<a href="https://codepen.io/jorboare" target="_blank"><img height="50" src="./public/images/codepen.png"></a>
 
 </p>
 

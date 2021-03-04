@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a valencian **web developer** based in Madrid 
 <img height="50" src="./public/images/express.png">&nbsp;&nbsp;
 <img height="50" src="./public/images/mongoDB.png">&nbsp;&nbsp;
 <img height="50" src="./public/images/postman.png">&nbsp;&nbsp;
-<img height="50" src="./public/images/visualcode.png">&nbsp;&nbsp;
+<img height="50" src="./public/images/vsc.png">&nbsp;&nbsp;
 <img height="50" src="./public/images/github.png">&nbsp;&nbsp;
 
 </p>

@@ -28,7 +28,8 @@ Welcome to my repo! I'm a valencian **web developer** based in Madrid. Passionat
 <img height="50" src="./public/images/github.png">&nbsp;&nbsp;
 
 </p>
+
 ## My Github
-
+<p align='center'>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorboare)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>

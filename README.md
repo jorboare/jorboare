@@ -1,6 +1,4 @@
-# Jordi Boronat Arévalo
-## Full-Stack MERN Web Developer
-
+<img height="100%" src="./public/images/Banner.png">
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/jordi-boronat-arevalo/" target="_blank"><img height="50" src="./public/images/174857.png"></a>&nbsp;&nbsp;

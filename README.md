@@ -32,5 +32,5 @@ Welcome to my GitHub profile! I'm a Valencian **web developer** based in Madrid 
 
 ## My Github
 
-<div style='text-align:center;'>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorboare&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jorboare&show_icons=true&theme=radical&hide_border=true"/> </p>
 

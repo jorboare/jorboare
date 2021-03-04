@@ -7,7 +7,7 @@
 
 </p>
 
-Welcome to my GitHub profile! I'm a valencian **web developer** based in Madrid (Spain). Passionate about videography, I recently switched my career to one of my other passions which is Web Development. This change has been possible thanks to **Ironhack Madrid**.
+Welcome to my GitHub profile! I'm a Valencian **web developer** based in Madrid (Spain). I'm passionate about videography, I recently switched my career to one of my other passions which is Web Development. This change has been possible thanks to **Ironhack Madrid**.
 
 - 🌱 I’m currently learning React Hooks and Redux
 - 👯 I’m looking to collaborate on wherever I can bring help or learn something new.

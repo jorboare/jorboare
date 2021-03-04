@@ -7,11 +7,11 @@
 
 </p>
 
-Welcome to my GitHub profile! I'm a Valencian **web developer** based in Madrid (Spain). I'm passionate about videography, I recently switched my career to one of my other passions which is Web Development. This change has been possible thanks to **Ironhack Madrid**.
+Welcome to my GitHub profile! I'm a Valencian **web developer** based in Madrid (Spain). who has recently switched career paths to one of their other passions, Web Development. This change has been possible thanks to **Ironhack Madrid**.
 
-- 🌱 I’m currently learning React Hooks and Redux
-- 👯 I’m looking to collaborate on wherever I can bring help or learn something new.
-- 💬 Ask me about Code, Filmmaking, Videogames, Paella...
+- 🌱 I’m currently expanding my knowledge learning React Hooks and Redux.
+- 👯 As for now I’m looking to collaborate wherever I can be of help or learn something new.
+- 💬 Ask me about Coding, Filmmaking, Videogames, Paella...
 
 
 ## Skills

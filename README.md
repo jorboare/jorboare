@@ -1,4 +1,5 @@
-# Jordi Boronat Arévalo - Full-Stack MERN Web Developer
+# Jordi Boronat Arévalo
+## Full-Stack MERN Web Developer
 
 
 <p align='center'>

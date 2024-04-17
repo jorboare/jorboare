@@ -7,10 +7,8 @@
 
 </p>
 
-Welcome to my GitHub profile! I'm a Valencian **web developer** based in AAmsterdam (The Netherlands). who has recently switched career paths to one of their other passions, Web Development. This change has been possible thanks to **Ironhack Madrid**.
+Welcome to my GitHub profile! I'm a spanish **web developer** based in Amsterdam (The Netherlands).
 
-- 🌱 I’m currently expanding my knowledge learning React Hooks and Redux.
-- 👯 As for now I’m looking to collaborate wherever I can be of help or learn something new.
 - 💬 Ask me about Coding, Filmmaking, Videogames, Paella...
 
 

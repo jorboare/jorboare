@@ -11,23 +11,6 @@ Welcome to my GitHub profile! I'm a spanish **web developer** based in Amsterdam
 
 - 💬 Ask me about Coding, Filmmaking, Videogames, Paella...
 
-
-## Skills
-<p align='center'>
-<img height="50" src="./public/images/html.webp">&nbsp;&nbsp;
-<img height="50" src="./public/images/hbs.png">&nbsp;&nbsp;
-<img height="50" src="./public/images/css.png">&nbsp;&nbsp;
-<img height="50" src="./public/images/js.png">&nbsp;&nbsp;
-<img height="50" src="./public/images/react.png">&nbsp;&nbsp;
-<img height="50" src="./public/images/node.webp">&nbsp;&nbsp;
-<img height="50" src="./public/images/express.png">&nbsp;&nbsp;
-<img height="50" src="./public/images/mongoDB.png">&nbsp;&nbsp;
-<img height="50" src="./public/images/postman.png">&nbsp;&nbsp;
-<img height="50" src="./public/images/vsc.png">&nbsp;&nbsp;
-<img height="50" src="./public/images/github.png">&nbsp;&nbsp;
-
-</p>
-
 ## My Github
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorboare&theme=radical&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api?username=jorboare&show_icons=true&theme=radical&hide_border=true"/></p>
